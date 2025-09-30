@@ -5,6 +5,8 @@ description: This resource talks about pyroxenes classified based on the occupan
 file: /courses/12-109-petrology-fall-2005/3fbea8c866eb6015885f208d57e602f4_lab1_pyx.pdf
 file_size: 83048
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

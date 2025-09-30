@@ -4,6 +4,8 @@ description: This resource is a supplementary file for session 7.
 file: /courses/12-109-petrology-fall-2005/d1c74bea0077cfccfbba3737c99b24ee_lab_7_data1.xls
 file_size: 11264
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

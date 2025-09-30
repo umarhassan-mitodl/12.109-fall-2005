@@ -4,6 +4,8 @@ description: This resource talks about light path through microscope.
 file: /courses/12-109-petrology-fall-2005/9a4580c407795123d4fa73c313d821bd_lab_note_sep_13.pdf
 file_size: 83997
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

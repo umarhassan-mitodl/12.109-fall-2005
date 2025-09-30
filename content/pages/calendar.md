@@ -2,6 +2,8 @@
 content_type: page
 description: The Calendar section contains topics and labs corresponding to the sessions
   and the keydates for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

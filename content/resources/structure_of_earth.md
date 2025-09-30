@@ -4,6 +4,8 @@ description: ''
 file: /courses/12-109-petrology-fall-2005/52d92b21b95ae9faa56923aad13642b9_Structure_of_Earth.pdf
 file_size: 129056
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource discusses the evidence for processes such as magma- m
 file: /courses/12-109-petrology-fall-2005/cc42ba46159cd6dc481a5b0d09a09dae_calc_alk_new1.pdf
 file_size: 84502
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

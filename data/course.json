@@ -33,6 +33,7 @@
     "website": "12-109-petrology-fall-2005"
   },
   "course_title": "Petrology",
+  "hide_download": true,
   "course_description": "This undergraduate petrology course surveys the distribution, chemical composition, and mineral associations in rocks of the earth's crust and upper mantle, and establishes its relation to tectonic environment. The emphasis of the course is on the use of chemistry and physics to interpret rock forming processes.\n",
   "department_numbers": [
     "12"
@@ -43,6 +44,7 @@
     "content": "af09d836-1015-9073-7199-adc714d839f5",
     "website": "12-109-petrology-fall-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"

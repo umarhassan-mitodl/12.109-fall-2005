@@ -4,6 +4,8 @@ description: ''
 file: /courses/12-109-petrology-fall-2005/2e2da48f30864ebd54e3675ad50b5c64_meltingwithh2o.pdf
 file_size: 315483
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

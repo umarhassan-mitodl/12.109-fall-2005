@@ -3,6 +3,8 @@ content_type: page
 description: The readings section contains list of the important books, supplemental
   reading material, recommended resources for laboratory exercises, and readings by
   session for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -35,7 +37,7 @@ Wood, B. J., and D. G. Fraser. _Elementary Thermodynamics for Geologists_. New Y
 Recommended Resources for Laboratory Exercises
 ----------------------------------------------
 
-The {{% resource_link "da72550e-e071-4038-becb-008b932d4130" "Microsoft® Powerpoint® lecture" %}} on optical mineralogy is an excellent primer on the physics of using a microscope in mineralogy.
+The [Microsoft® Powerpoint® lecture](http://www.whitman.edu/geology/winter/JDW_MinClass.htm) on optical mineralogy is an excellent primer on the physics of using a microscope in mineralogy.
 
 See especially [Microsoft® Powerpoint® presentation 3](/msviewer) for helpful information on twinning, cleavage, and more in thin sections.
 

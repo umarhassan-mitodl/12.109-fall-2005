@@ -4,6 +4,8 @@ description: ''
 file: /courses/12-109-petrology-fall-2005/ac57b74d28aa40c74da4e42b4016fcb3_markov.pdf
 file_size: 100974
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

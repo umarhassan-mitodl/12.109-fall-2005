@@ -4,6 +4,8 @@ description: ''
 file: /courses/12-109-petrology-fall-2005/f4da035a3bf531ddce783dbf8a45745e_phase_diagrams.pdf
 file_size: 436361
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

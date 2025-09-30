@@ -4,6 +4,8 @@ description: ''
 file: /courses/12-109-petrology-fall-2005/1af95b675ed220e3b9c937b0318eaddd_Oct4notes.pdf
 file_size: 142371
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
