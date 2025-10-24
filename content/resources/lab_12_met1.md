@@ -4,8 +4,6 @@ description: This resource contains information about metamorphism of pelites.
 file: /courses/12-109-petrology-fall-2005/5f039760af8fc78bc1e7c82e00f021d0_lab_12_met1.pdf
 file_size: 81274
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

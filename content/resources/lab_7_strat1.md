@@ -4,8 +4,6 @@ description: This is an imaginative cross-section through Mt. Doom.
 file: /courses/12-109-petrology-fall-2005/420ace49e37599de9e8c7f246fd5c3bc_lab_7_strat1.jpg
 file_size: 483096
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

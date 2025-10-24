@@ -5,8 +5,6 @@ description: This resource talks about the use of the petrographic microscope, r
 file: /courses/12-109-petrology-fall-2005/900a40daa49ae913d2c265592874afa3_optical.pdf
 file_size: 4422496
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

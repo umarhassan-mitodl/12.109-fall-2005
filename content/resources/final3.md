@@ -4,8 +4,6 @@ description: This resource is an open note, open book exam.
 file: /courses/12-109-petrology-fall-2005/ec67da197f0e60276a77513a6146d434_final3.pdf
 file_size: 63090
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

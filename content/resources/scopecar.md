@@ -4,8 +4,6 @@ description: This resource talks about microscope care, and adjusting the micros
 file: /courses/12-109-petrology-fall-2005/c4a54deb9a5e42e9b8b111565d4203fd_scopecar.pdf
 file_size: 66521
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

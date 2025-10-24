@@ -3,8 +3,6 @@ content_type: page
 description: The readings section contains list of the important books, supplemental
   reading material, recommended resources for laboratory exercises, and readings by
   session for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
