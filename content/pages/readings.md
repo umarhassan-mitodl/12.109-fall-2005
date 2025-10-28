@@ -35,7 +35,7 @@ Wood, B. J., and D. G. Fraser. _Elementary Thermodynamics for Geologists_. New Y
 Recommended Resources for Laboratory Exercises
 ----------------------------------------------
 
-The [Microsoft® Powerpoint® lecture](http://www.whitman.edu/geology/winter/JDW_MinClass.htm) on optical mineralogy is an excellent primer on the physics of using a microscope in mineralogy.
+The {{% resource_link "e032535f-6a72-47dd-bb33-87e1ad1f125b" "Microsoft® Powerpoint® lecture" %}} on optical mineralogy is an excellent primer on the physics of using a microscope in mineralogy.
 
 See especially [Microsoft® Powerpoint® presentation 3](/msviewer) for helpful information on twinning, cleavage, and more in thin sections.
 
